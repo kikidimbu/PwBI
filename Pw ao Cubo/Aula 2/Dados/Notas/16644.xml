@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>13/03/2022</DataEmissao>
+<NotaFiscal>16644</NotaFiscal>
+<Warehouse>WHRIO</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Belo Horizonte</CidadeDestino>
+<CodCliente>66225</CodCliente>
+<TotalNotaFiscal>808,09</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>2,5</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>12</PrazoContratado>
+<DataColeta>14/03/2022</DataColeta>
+<DataEntrega>20/03/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

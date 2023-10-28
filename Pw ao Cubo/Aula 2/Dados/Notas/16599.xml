@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>23/02/2022</DataEmissao>
+<NotaFiscal>16599</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>66224</CodCliente>
+<TotalNotaFiscal>8822,9</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,09</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Urgente</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>23/02/2022</DataColeta>
+<DataEntrega>24/02/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

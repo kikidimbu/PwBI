@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>30/08/2021</DataEmissao>
+<NotaFiscal>16039</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Porto Alegre</CidadeDestino>
+<CodCliente>66234</CodCliente>
+<TotalNotaFiscal>136,53</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,08</PesoBruto>
+<CodTransportadora>910033</CodTransportadora>
+<Transportadora>Cargo Amaral</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>31/08/2021</DataColeta>
+<DataEntrega>08/09/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>13/09/2021</DataEmissao>
+<NotaFiscal>16080</NotaFiscal>
+<Warehouse>WHPOA</Warehouse>
+<CidadeOrigem>Porto Alegre</CidadeOrigem>
+<CidadeDestino>Goiania</CidadeDestino>
+<CodCliente>66232</CodCliente>
+<TotalNotaFiscal>66,03</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>0,1</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>12</PrazoContratado>
+<DataColeta>13/09/2021</DataColeta>
+<DataEntrega>19/09/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

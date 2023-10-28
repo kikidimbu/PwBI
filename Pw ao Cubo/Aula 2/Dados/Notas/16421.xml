@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>17/12/2021</DataEmissao>
+<NotaFiscal>16421</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>66224</CodCliente>
+<TotalNotaFiscal>8734,32</TotalNotaFiscal>
+<Volumes>11</Volumes>
+<PesoBruto>51,062</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>5</PrazoContratado>
+<DataColeta>17/12/2021</DataColeta>
+<DataEntrega>18/12/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

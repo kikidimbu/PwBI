@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>22/01/2022</DataEmissao>
+<NotaFiscal>16507</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Campo Grande</CidadeDestino>
+<CodCliente>66266</CodCliente>
+<TotalNotaFiscal>1169,1</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>16,243</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>22/01/2022</DataColeta>
+<DataEntrega>29/01/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

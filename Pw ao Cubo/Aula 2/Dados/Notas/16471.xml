@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>03/01/2022</DataEmissao>
+<NotaFiscal>16471</NotaFiscal>
+<Warehouse>WHBHZ</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Brasilia</CidadeDestino>
+<CodCliente>66285</CodCliente>
+<TotalNotaFiscal>1159,18</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,12</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>6</PrazoContratado>
+<DataColeta>03/01/2022</DataColeta>
+<DataEntrega>12/01/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

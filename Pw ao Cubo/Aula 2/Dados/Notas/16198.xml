@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>10/10/2021</DataEmissao>
+<NotaFiscal>16198</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>66228</CodCliente>
+<TotalNotaFiscal>921,18</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>14,502</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>12</PrazoContratado>
+<DataColeta>11/10/2021</DataColeta>
+<DataEntrega>20/10/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

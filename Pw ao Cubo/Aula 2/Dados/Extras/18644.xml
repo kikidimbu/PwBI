@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>22/07/2023</DataEmissao>
+<NotaFiscal>18644</NotaFiscal>
+<Warehouse>WHBHZ</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Porto Alegre</CidadeDestino>
+<CodCliente>66407</CodCliente>
+<TotalNotaFiscal>322,49</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>0,099</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>23/07/2023</DataColeta>
+<DataEntrega>27/07/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

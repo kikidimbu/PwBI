@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>24/10/2021</DataEmissao>
+<NotaFiscal>16233</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>66224</CodCliente>
+<TotalNotaFiscal>1411,92</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>8,6</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>5</PrazoContratado>
+<DataColeta>24/10/2021</DataColeta>
+<DataEntrega>30/10/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

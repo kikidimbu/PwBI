@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>06/06/2022</DataEmissao>
+<NotaFiscal>16942</NotaFiscal>
+<Warehouse>WHBHZ</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Goiania</CidadeDestino>
+<CodCliente>66232</CodCliente>
+<TotalNotaFiscal>1951,55</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>7,81</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>06/06/2022</DataColeta>
+<DataEntrega>14/06/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

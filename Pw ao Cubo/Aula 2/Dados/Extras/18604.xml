@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>10/07/2023</DataEmissao>
+<NotaFiscal>18604</NotaFiscal>
+<Warehouse>WHBHZ</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Sao Jose Dos Pinhais</CidadeDestino>
+<CodCliente>66410</CodCliente>
+<TotalNotaFiscal>4880,28</TotalNotaFiscal>
+<Volumes>5</Volumes>
+<PesoBruto>8,76</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>8</PrazoContratado>
+<DataColeta>10/07/2023</DataColeta>
+<DataEntrega>14/07/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

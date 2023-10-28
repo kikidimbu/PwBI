@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>08/05/2022</DataEmissao>
+<NotaFiscal>16821</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Sao Jose</CidadeDestino>
+<CodCliente>66324</CodCliente>
+<TotalNotaFiscal>2334,37</TotalNotaFiscal>
+<Volumes>8</Volumes>
+<PesoBruto>36,538</PesoBruto>
+<CodTransportadora>970077</CodTransportadora>
+<Transportadora>RodoLopes</Transportadora>
+<CentroDistribuicao>Manaus</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>09/05/2022</DataColeta>
+<DataEntrega>13/05/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

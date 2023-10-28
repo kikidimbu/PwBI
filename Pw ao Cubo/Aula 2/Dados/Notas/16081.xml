@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>13/09/2021</DataEmissao>
+<NotaFiscal>16081</NotaFiscal>
+<Warehouse>WHBHZ</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Belo Horizonte</CidadeDestino>
+<CodCliente>66242</CodCliente>
+<TotalNotaFiscal>2031,76</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>3,615</PesoBruto>
+<CodTransportadora>910033</CodTransportadora>
+<Transportadora>Cargo Amaral</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>13/09/2021</DataColeta>
+<DataEntrega>22/09/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

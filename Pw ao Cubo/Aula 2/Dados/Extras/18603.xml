@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>10/07/2023</DataEmissao>
+<NotaFiscal>18603</NotaFiscal>
+<Warehouse>WHBHZ</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Sao Paulo</CidadeDestino>
+<CodCliente>66342</CodCliente>
+<TotalNotaFiscal>2095,99</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>4,8</PesoBruto>
+<CodTransportadora>990099</CodTransportadora>
+<Transportadora>Cargas 3em1</Transportadora>
+<CentroDistribuicao>Fortaleza</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>3</PrazoContratado>
+<DataColeta>10/07/2023</DataColeta>
+<DataEntrega>15/07/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

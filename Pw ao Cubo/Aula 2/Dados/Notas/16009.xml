@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>24/08/2021</DataEmissao>
+<NotaFiscal>16009</NotaFiscal>
+<Warehouse>WHRIO</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Varzea Grande</CidadeDestino>
+<CodCliente>66222</CodCliente>
+<TotalNotaFiscal>1614,12</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>4,8</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>3</PrazoContratado>
+<DataColeta>25/08/2021</DataColeta>
+<DataEntrega>30/08/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

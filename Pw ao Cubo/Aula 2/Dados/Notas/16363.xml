@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>24/11/2021</DataEmissao>
+<NotaFiscal>16363</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Goiania</CidadeDestino>
+<CodCliente>66232</CodCliente>
+<TotalNotaFiscal>438,06</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>0,589</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>24/11/2021</DataColeta>
+<DataEntrega>01/12/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

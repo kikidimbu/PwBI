@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>16/10/2021</DataEmissao>
+<NotaFiscal>16214</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Campo Grande</CidadeDestino>
+<CodCliente>66266</CodCliente>
+<TotalNotaFiscal>4358,96</TotalNotaFiscal>
+<Volumes>5</Volumes>
+<PesoBruto>9,132</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>1</PrazoContratado>
+<DataColeta>17/10/2021</DataColeta>
+<DataEntrega>27/10/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

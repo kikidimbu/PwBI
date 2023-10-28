@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>07/05/2022</DataEmissao>
+<NotaFiscal>16816</NotaFiscal>
+<Warehouse>WHRIO</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Campo Grande</CidadeDestino>
+<CodCliente>66266</CodCliente>
+<TotalNotaFiscal>696,98</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>0,031</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>5</PrazoContratado>
+<DataColeta>08/05/2022</DataColeta>
+<DataEntrega>09/05/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

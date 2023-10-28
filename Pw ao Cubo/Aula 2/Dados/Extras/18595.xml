@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>09/07/2023</DataEmissao>
+<NotaFiscal>18595</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>66363</CodCliente>
+<TotalNotaFiscal>47,23</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,042</PesoBruto>
+<CodTransportadora>990099</CodTransportadora>
+<Transportadora>Cargas 3em1</Transportadora>
+<CentroDistribuicao>Fortaleza</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>1</PrazoContratado>
+<DataColeta>09/07/2023</DataColeta>
+<DataEntrega>11/07/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

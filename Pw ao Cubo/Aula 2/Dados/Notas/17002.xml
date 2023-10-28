@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>19/06/2022</DataEmissao>
+<NotaFiscal>17002</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Campo Grande</CidadeDestino>
+<CodCliente>66258</CodCliente>
+<TotalNotaFiscal>827,53</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>3,6</PesoBruto>
+<CodTransportadora>910033</CodTransportadora>
+<Transportadora>Cargo Amaral</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>12</PrazoContratado>
+<DataColeta>19/06/2022</DataColeta>
+<DataEntrega>21/06/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

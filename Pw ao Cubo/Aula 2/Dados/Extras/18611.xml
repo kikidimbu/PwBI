@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>10/07/2023</DataEmissao>
+<NotaFiscal>18611</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>66418</CodCliente>
+<TotalNotaFiscal>2940,7</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>12,118</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>5</PrazoContratado>
+<DataColeta>10/07/2023</DataColeta>
+<DataEntrega>11/07/2023</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

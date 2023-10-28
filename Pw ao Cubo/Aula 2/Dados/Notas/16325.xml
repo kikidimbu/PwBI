@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>17/11/2021</DataEmissao>
+<NotaFiscal>16325</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Goiania</CidadeDestino>
+<CodCliente>66277</CodCliente>
+<TotalNotaFiscal>897,15</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,08</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>17/11/2021</DataColeta>
+<DataEntrega>22/11/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

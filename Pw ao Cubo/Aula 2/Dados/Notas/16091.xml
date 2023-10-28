@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>15/09/2021</DataEmissao>
+<NotaFiscal>16091</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Sao Paulo</CidadeDestino>
+<CodCliente>66244</CodCliente>
+<TotalNotaFiscal>76,33</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>0,76</PesoBruto>
+<CodTransportadora>910033</CodTransportadora>
+<Transportadora>Cargo Amaral</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>7</PrazoContratado>
+<DataColeta>15/09/2021</DataColeta>
+<DataEntrega>21/09/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

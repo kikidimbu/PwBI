@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>24/11/2021</DataEmissao>
+<NotaFiscal>16366</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>66257</CodCliente>
+<TotalNotaFiscal>200,47</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>5,28</PesoBruto>
+<CodTransportadora>910033</CodTransportadora>
+<Transportadora>Cargo Amaral</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>24/11/2021</DataColeta>
+<DataEntrega>03/12/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

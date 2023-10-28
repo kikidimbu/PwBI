@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>09/07/2023</DataEmissao>
+<NotaFiscal>18598</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>66467</CodCliente>
+<TotalNotaFiscal>1280,76</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>12,193</PesoBruto>
+<CodTransportadora>910047</CodTransportadora>
+<Transportadora>Rio Express</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>3</PrazoContratado>
+<DataColeta>09/07/2023</DataColeta>
+<DataEntrega>15/07/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>21/02/2022</DataEmissao>
+<NotaFiscal>16588</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>66313</CodCliente>
+<TotalNotaFiscal>2815,17</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>16,97</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Urgente</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>21/02/2022</DataColeta>
+<DataEntrega>24/02/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

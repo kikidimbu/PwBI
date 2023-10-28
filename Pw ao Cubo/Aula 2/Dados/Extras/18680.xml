@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>04/08/2023</DataEmissao>
+<NotaFiscal>18680</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Brasilia</CidadeDestino>
+<CodCliente>66398</CodCliente>
+<TotalNotaFiscal>3453,15</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,075</PesoBruto>
+<CodTransportadora>970077</CodTransportadora>
+<Transportadora>RodoLopes</Transportadora>
+<CentroDistribuicao>Manaus</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>7</PrazoContratado>
+<DataColeta>05/08/2023</DataColeta>
+<DataEntrega>06/08/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

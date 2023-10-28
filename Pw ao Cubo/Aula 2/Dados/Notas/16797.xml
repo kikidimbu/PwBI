@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>26/04/2022</DataEmissao>
+<NotaFiscal>16797</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Goiania</CidadeDestino>
+<CodCliente>66232</CodCliente>
+<TotalNotaFiscal>397,59</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>13,688</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Urgente</TipoTransporte>
+<PrazoContratado>1</PrazoContratado>
+<DataColeta>27/04/2022</DataColeta>
+<DataEntrega>28/04/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>06/06/2022</DataEmissao>
+<NotaFiscal>16945</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Goiania</CidadeDestino>
+<CodCliente>66232</CodCliente>
+<TotalNotaFiscal>714,84</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>8,21</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>06/06/2022</DataColeta>
+<DataEntrega>13/06/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

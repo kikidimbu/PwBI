@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>05/07/2022</DataEmissao>
+<NotaFiscal>17038</NotaFiscal>
+<Warehouse>WHBHZ</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>66333</CodCliente>
+<TotalNotaFiscal>1750,94</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,142</PesoBruto>
+<CodTransportadora>990099</CodTransportadora>
+<Transportadora>Cargas 3em1</Transportadora>
+<CentroDistribuicao>Fortaleza</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>05/07/2022</DataColeta>
+<DataEntrega>15/07/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

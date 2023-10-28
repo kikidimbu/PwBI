@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>26/01/2022</DataEmissao>
+<NotaFiscal>16519</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Goiania</CidadeDestino>
+<CodCliente>66232</CodCliente>
+<TotalNotaFiscal>1881,75</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>11,55</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>6</PrazoContratado>
+<DataColeta>26/01/2022</DataColeta>
+<DataEntrega>02/02/2022</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>06/06/2022</DataEmissao>
+<NotaFiscal>16935</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Novo Hamburgo</CidadeDestino>
+<CodCliente>66329</CodCliente>
+<TotalNotaFiscal>3529,76</TotalNotaFiscal>
+<Volumes>5</Volumes>
+<PesoBruto>22,91</PesoBruto>
+<CodTransportadora>910047</CodTransportadora>
+<Transportadora>Rio Express</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>06/06/2022</DataColeta>
+<DataEntrega>12/06/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

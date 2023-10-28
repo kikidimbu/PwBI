@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>11/07/2023</DataEmissao>
+<NotaFiscal>18613</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>66356</CodCliente>
+<TotalNotaFiscal>3452,88</TotalNotaFiscal>
+<Volumes>5</Volumes>
+<PesoBruto>23,1</PesoBruto>
+<CodTransportadora>990099</CodTransportadora>
+<Transportadora>Cargas 3em1</Transportadora>
+<CentroDistribuicao>Fortaleza</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>11/07/2023</DataColeta>
+<DataEntrega>16/07/2023</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

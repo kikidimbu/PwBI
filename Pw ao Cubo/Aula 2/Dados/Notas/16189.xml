@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>11/10/2021</DataEmissao>
+<NotaFiscal>16189</NotaFiscal>
+<Warehouse>WHRIO</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>66263</CodCliente>
+<TotalNotaFiscal>1434,97</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>11,4</PesoBruto>
+<CodTransportadora>910033</CodTransportadora>
+<Transportadora>Cargo Amaral</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>11/10/2021</DataColeta>
+<DataEntrega>21/10/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

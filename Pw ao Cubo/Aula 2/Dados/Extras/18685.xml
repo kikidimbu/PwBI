@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>05/08/2023</DataEmissao>
+<NotaFiscal>18685</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Presidente Prudente</CidadeDestino>
+<CodCliente>66471</CodCliente>
+<TotalNotaFiscal>2963,49</TotalNotaFiscal>
+<Volumes>13</Volumes>
+<PesoBruto>57,668</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>1</PrazoContratado>
+<DataColeta>06/08/2023</DataColeta>
+<DataEntrega>10/08/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

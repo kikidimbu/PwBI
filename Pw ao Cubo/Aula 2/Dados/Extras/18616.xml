@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>12/07/2023</DataEmissao>
+<NotaFiscal>18616</NotaFiscal>
+<Warehouse>WHBHZ</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Sao Paulo</CidadeDestino>
+<CodCliente>66345</CodCliente>
+<TotalNotaFiscal>1307,94</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>10,9</PesoBruto>
+<CodTransportadora>970077</CodTransportadora>
+<Transportadora>RodoLopes</Transportadora>
+<CentroDistribuicao>Manaus</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>8</PrazoContratado>
+<DataColeta>12/07/2023</DataColeta>
+<DataEntrega>21/07/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

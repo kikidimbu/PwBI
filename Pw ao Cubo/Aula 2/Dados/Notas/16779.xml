@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>20/04/2022</DataEmissao>
+<NotaFiscal>16779</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Pocos De Caldas</CidadeDestino>
+<CodCliente>66323</CodCliente>
+<TotalNotaFiscal>1054,88</TotalNotaFiscal>
+<Volumes>4</Volumes>
+<PesoBruto>32,09</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>12</PrazoContratado>
+<DataColeta>20/04/2022</DataColeta>
+<DataEntrega>24/04/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

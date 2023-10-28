@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>29/04/2022</DataEmissao>
+<NotaFiscal>16801</NotaFiscal>
+<Warehouse>WHPOA</Warehouse>
+<CidadeOrigem>Porto Alegre</CidadeOrigem>
+<CidadeDestino>Bauru</CidadeDestino>
+<CodCliente>66214</CodCliente>
+<TotalNotaFiscal>25783,01</TotalNotaFiscal>
+<Volumes>74</Volumes>
+<PesoBruto>242,55</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>1</PrazoContratado>
+<DataColeta>30/04/2022</DataColeta>
+<DataEntrega>07/05/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

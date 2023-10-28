@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>22/08/2021</DataEmissao>
+<NotaFiscal>15990</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Sao Paulo</CidadeDestino>
+<CodCliente>66216</CodCliente>
+<TotalNotaFiscal>1394,72</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>50</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Urgente</TipoTransporte>
+<PrazoContratado>7</PrazoContratado>
+<DataColeta>23/08/2021</DataColeta>
+<DataEntrega>02/09/2021</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

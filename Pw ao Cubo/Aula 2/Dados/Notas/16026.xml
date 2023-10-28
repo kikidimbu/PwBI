@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>29/08/2021</DataEmissao>
+<NotaFiscal>16026</NotaFiscal>
+<Warehouse>WHPOA</Warehouse>
+<CidadeOrigem>Porto Alegre</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>66231</CodCliente>
+<TotalNotaFiscal>2049,39</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>4,8</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>6</PrazoContratado>
+<DataColeta>30/08/2021</DataColeta>
+<DataEntrega>31/08/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

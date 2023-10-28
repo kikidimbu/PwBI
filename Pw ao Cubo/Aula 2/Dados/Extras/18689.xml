@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>05/08/2023</DataEmissao>
+<NotaFiscal>18689</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Bauru</CidadeDestino>
+<CodCliente>66474</CodCliente>
+<TotalNotaFiscal>2753,36</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>23,845</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>06/08/2023</DataColeta>
+<DataEntrega>07/08/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

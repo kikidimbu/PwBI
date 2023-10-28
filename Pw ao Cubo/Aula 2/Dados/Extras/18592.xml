@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>08/07/2023</DataEmissao>
+<NotaFiscal>18592</NotaFiscal>
+<Warehouse>WHBHZ</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Ipatinga</CidadeDestino>
+<CodCliente>66466</CodCliente>
+<TotalNotaFiscal>2092,71</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>3,07</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>5</PrazoContratado>
+<DataColeta>08/07/2023</DataColeta>
+<DataEntrega>09/07/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

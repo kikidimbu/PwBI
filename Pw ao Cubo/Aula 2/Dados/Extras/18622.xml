@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>16/07/2023</DataEmissao>
+<NotaFiscal>18622</NotaFiscal>
+<Warehouse>WHBHZ</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>66219</CodCliente>
+<TotalNotaFiscal>2182,39</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>14,3</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>16/07/2023</DataColeta>
+<DataEntrega>23/07/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>01/07/2023</DataEmissao>
+<NotaFiscal>18572</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Sao Jose Do Rio Preto</CidadeDestino>
+<CodCliente>66375</CodCliente>
+<TotalNotaFiscal>1101,38</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>4,3</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>5</PrazoContratado>
+<DataColeta>01/07/2023</DataColeta>
+<DataEntrega>04/07/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

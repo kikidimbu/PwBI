@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>05/11/2021</DataEmissao>
+<NotaFiscal>16297</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Belo Horizonte</CidadeDestino>
+<CodCliente>66225</CodCliente>
+<TotalNotaFiscal>3298,26</TotalNotaFiscal>
+<Volumes>11</Volumes>
+<PesoBruto>34</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>5</PrazoContratado>
+<DataColeta>06/11/2021</DataColeta>
+<DataEntrega>13/11/2021</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</nfe>

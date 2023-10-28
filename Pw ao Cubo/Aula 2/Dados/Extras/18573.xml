@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>01/07/2023</DataEmissao>
+<NotaFiscal>18573</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>66433</CodCliente>
+<TotalNotaFiscal>2673,57</TotalNotaFiscal>
+<Volumes>4</Volumes>
+<PesoBruto>4,5</PesoBruto>
+<CodTransportadora>910047</CodTransportadora>
+<Transportadora>Rio Express</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>01/07/2023</DataColeta>
+<DataEntrega>10/07/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

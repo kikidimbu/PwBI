@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>06/05/2022</DataEmissao>
+<NotaFiscal>16809</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Pocos De Caldas</CidadeDestino>
+<CodCliente>66323</CodCliente>
+<TotalNotaFiscal>251,11</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,01</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>07/05/2022</DataColeta>
+<DataEntrega>13/05/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

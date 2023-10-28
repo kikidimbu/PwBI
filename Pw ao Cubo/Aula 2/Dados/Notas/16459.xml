@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>29/12/2021</DataEmissao>
+<NotaFiscal>16459</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Belo Horizonte</CidadeDestino>
+<CodCliente>66297</CodCliente>
+<TotalNotaFiscal>1125,77</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,1</PesoBruto>
+<CodTransportadora>910047</CodTransportadora>
+<Transportadora>Rio Express</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>29/12/2021</DataColeta>
+<DataEntrega>30/12/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

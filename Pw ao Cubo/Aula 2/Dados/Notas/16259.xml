@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>27/10/2021</DataEmissao>
+<NotaFiscal>16259</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Aracatuba</CidadeDestino>
+<CodCliente>66272</CodCliente>
+<TotalNotaFiscal>1521,88</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>5,22</PesoBruto>
+<CodTransportadora>910047</CodTransportadora>
+<Transportadora>Rio Express</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>27/10/2021</DataColeta>
+<DataEntrega>05/11/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

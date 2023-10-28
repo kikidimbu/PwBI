@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>16/07/2023</DataEmissao>
+<NotaFiscal>18623</NotaFiscal>
+<Warehouse>WHPOA</Warehouse>
+<CidadeOrigem>Porto Alegre</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>66361</CodCliente>
+<TotalNotaFiscal>808,92</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>4,18</PesoBruto>
+<CodTransportadora>970077</CodTransportadora>
+<Transportadora>RodoLopes</Transportadora>
+<CentroDistribuicao>Manaus</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>7</PrazoContratado>
+<DataColeta>16/07/2023</DataColeta>
+<DataEntrega>23/07/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

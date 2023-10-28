@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>24/08/2021</DataEmissao>
+<NotaFiscal>16010</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Rio De Janeiro</CidadeDestino>
+<CodCliente>66221</CodCliente>
+<TotalNotaFiscal>3135,12</TotalNotaFiscal>
+<Volumes>5</Volumes>
+<PesoBruto>24,78</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>3</PrazoContratado>
+<DataColeta>25/08/2021</DataColeta>
+<DataEntrega>31/08/2021</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</nfe>

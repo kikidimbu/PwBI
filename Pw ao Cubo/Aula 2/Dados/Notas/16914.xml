@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>22/05/2022</DataEmissao>
+<NotaFiscal>16914</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>66224</CodCliente>
+<TotalNotaFiscal>831,22</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>2,1</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>22/05/2022</DataColeta>
+<DataEntrega>30/05/2022</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

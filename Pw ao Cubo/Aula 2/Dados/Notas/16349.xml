@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>22/11/2021</DataEmissao>
+<NotaFiscal>16349</NotaFiscal>
+<Warehouse>WHRIO</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>66224</CodCliente>
+<TotalNotaFiscal>3030,45</TotalNotaFiscal>
+<Volumes>12</Volumes>
+<PesoBruto>35,1</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>1</PrazoContratado>
+<DataColeta>22/11/2021</DataColeta>
+<DataEntrega>01/12/2021</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

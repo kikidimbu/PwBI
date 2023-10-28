@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>29/03/2022</DataEmissao>
+<NotaFiscal>16714</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Campo Grande</CidadeDestino>
+<CodCliente>66266</CodCliente>
+<TotalNotaFiscal>1647,67</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>2,28</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>29/03/2022</DataColeta>
+<DataEntrega>06/04/2022</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

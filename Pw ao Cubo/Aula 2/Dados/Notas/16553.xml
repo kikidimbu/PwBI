@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>02/02/2022</DataEmissao>
+<NotaFiscal>16553</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Belo Horizonte</CidadeDestino>
+<CodCliente>66306</CodCliente>
+<TotalNotaFiscal>121,3</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>4,66</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>8</PrazoContratado>
+<DataColeta>02/02/2022</DataColeta>
+<DataEntrega>05/02/2022</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</nfe>

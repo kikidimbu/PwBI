@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>24/04/2022</DataEmissao>
+<NotaFiscal>16785</NotaFiscal>
+<Warehouse>WHRIO</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Varzea Grande</CidadeDestino>
+<CodCliente>66222</CodCliente>
+<TotalNotaFiscal>7613,4</TotalNotaFiscal>
+<Volumes>18</Volumes>
+<PesoBruto>41,5</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>24/04/2022</DataColeta>
+<DataEntrega>04/05/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

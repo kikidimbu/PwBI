@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>03/07/2023</DataEmissao>
+<NotaFiscal>18581</NotaFiscal>
+<Warehouse>WHRIO</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>66356</CodCliente>
+<TotalNotaFiscal>4379,94</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>9,8</PesoBruto>
+<CodTransportadora>990099</CodTransportadora>
+<Transportadora>Cargas 3em1</Transportadora>
+<CentroDistribuicao>Fortaleza</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>6</PrazoContratado>
+<DataColeta>03/07/2023</DataColeta>
+<DataEntrega>06/07/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

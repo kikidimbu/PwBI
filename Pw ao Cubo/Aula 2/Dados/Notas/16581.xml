@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>14/02/2022</DataEmissao>
+<NotaFiscal>16581</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Presidente Prudente</CidadeDestino>
+<CodCliente>66312</CodCliente>
+<TotalNotaFiscal>2212,65</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>7,181</PesoBruto>
+<CodTransportadora>990099</CodTransportadora>
+<Transportadora>Cargas 3em1</Transportadora>
+<CentroDistribuicao>Fortaleza</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>14/02/2022</DataColeta>
+<DataEntrega>15/02/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

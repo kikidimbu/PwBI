@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>15/03/2022</DataEmissao>
+<NotaFiscal>16648</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>66219</CodCliente>
+<TotalNotaFiscal>790,71</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>3,9</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>16/03/2022</DataColeta>
+<DataEntrega>24/03/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

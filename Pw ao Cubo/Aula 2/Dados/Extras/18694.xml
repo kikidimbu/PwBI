@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>06/08/2023</DataEmissao>
+<NotaFiscal>18694</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>66263</CodCliente>
+<TotalNotaFiscal>969,97</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>4,453</PesoBruto>
+<CodTransportadora>910033</CodTransportadora>
+<Transportadora>Cargo Amaral</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>07/08/2023</DataColeta>
+<DataEntrega>10/08/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

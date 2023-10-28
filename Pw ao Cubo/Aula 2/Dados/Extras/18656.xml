@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>25/07/2023</DataEmissao>
+<NotaFiscal>18656</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Sao Jose Dos Pinhais</CidadeDestino>
+<CodCliente>66469</CodCliente>
+<TotalNotaFiscal>139,38</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,01</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>26/07/2023</DataColeta>
+<DataEntrega>28/07/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

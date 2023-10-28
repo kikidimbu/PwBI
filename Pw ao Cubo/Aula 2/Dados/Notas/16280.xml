@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>30/10/2021</DataEmissao>
+<NotaFiscal>16280</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>66247</CodCliente>
+<TotalNotaFiscal>6385,59</TotalNotaFiscal>
+<Volumes>16</Volumes>
+<PesoBruto>54,331</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>7</PrazoContratado>
+<DataColeta>30/10/2021</DataColeta>
+<DataEntrega>31/10/2021</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</nfe>

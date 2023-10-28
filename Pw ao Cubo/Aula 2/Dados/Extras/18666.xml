@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>29/07/2023</DataEmissao>
+<NotaFiscal>18666</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>66392</CodCliente>
+<TotalNotaFiscal>61,95</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>0,494</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>30/07/2023</DataColeta>
+<DataEntrega>06/08/2023</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</nfe>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>15/07/2023</DataEmissao>
+<NotaFiscal>18617</NotaFiscal>
+<Warehouse>WHRIO</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Brasilia</CidadeDestino>
+<CodCliente>66368</CodCliente>
+<TotalNotaFiscal>6032,72</TotalNotaFiscal>
+<Volumes>10</Volumes>
+<PesoBruto>35,38</PesoBruto>
+<CodTransportadora>970077</CodTransportadora>
+<Transportadora>RodoLopes</Transportadora>
+<CentroDistribuicao>Manaus</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>15/07/2023</DataColeta>
+<DataEntrega>18/07/2023</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>01/09/2021</DataEmissao>
+<NotaFiscal>16040</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Porto Alegre</CidadeDestino>
+<CodCliente>66235</CodCliente>
+<TotalNotaFiscal>782,14</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>4,34</PesoBruto>
+<CodTransportadora>910033</CodTransportadora>
+<Transportadora>Cargo Amaral</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>1</PrazoContratado>
+<DataColeta>01/09/2021</DataColeta>
+<DataEntrega>11/09/2021</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>
